@@ -36,36 +36,19 @@ This is a **self-built travel database** created from scratch, covering
 ### 🌏 Cities covered:
 
 **India (40+ cities)**
-> Delhi, Mumbai, Jaipur, Agra, Udaipur, Varanasi, Amritsar, Bengaluru, 
-> Hyderabad, Kochi, Goa, Jodhpur, Rishikesh, Shimla, Darjeeling, Manali, 
-> Leh Ladakh, Mysore, Pondicherry, Hampi, Madurai, Ooty, Munnar, Kashmir, 
-> Shillong, Guwahati, Ahmedabad, Indore, Pune, Chandigarh, Tawang, Gangtok, 
-> Jaisalmer, Pushkar, Khajuraho, Aurangabad, Alleppey, Kodaikanal, 
-> Chikmagalur, Coorg
+> Delhi, Mumbai, Jaipur, Agra, Udaipur, Varanasi, Amritsar, Bengaluru, etc.
 
 **Asia (30+ cities)**
-> Bangkok, Tokyo, Singapore, Seoul, Hong Kong, Kuala Lumpur, Hanoi, 
-> Shanghai, Taipei, Ho Chi Minh, Kyoto, Osaka, Bali, Phuket, Siem Reap, 
-> Kathmandu, Luang Prabang, Baku, Almaty, Tashkent, Phnom Penh, Colombo, 
-> Manila, Jakarta, Beijing, Chiang Mai, Da Nang, George Town, Phu Quoc, 
-> Doha, Abu Dhabi, Langkawi, Surabaya, Vientiane, Ulaanbaatar, Dubai, 
-> Muscat, Cairo, Luxor
+> Bangkok, Tokyo, Singapore, Seoul, Hong Kong, Kuala Lumpur, Hanoi, etc.
 
 **Europe (40+ cities)**
-> Paris, London, Rome, Barcelona, Amsterdam, Prague, Vienna, Berlin, 
-> Lisbon, Florence, Madrid, Budapest, Venice, Athens, Istanbul, Munich, 
-> Zurich, Edinburgh, Dublin, Copenhagen, Stockholm, Oslo, Helsinki, 
-> Brussels, Warsaw, Krakow, Santorini, Nice, Seville, Milan, Geneva, 
-> Lyon, Hamburg, Salzburg, Antwerp, Strasbourg, Tallinn, Kyiv
+> Paris, London, Rome, Barcelona, Amsterdam, Prague, Vienna, Berlin, etc.
 
 **Americas (20+ cities)**
-> New York, Los Angeles, Chicago, San Francisco, Miami, Toronto, Vancouver,
-> Mexico City, Cancún, Rio de Janeiro, Buenos Aires, Cusco, Lima, Bogotá,
-> Santiago, Las Vegas, Washington DC, Montreal, Quebec City, Cartagena,
-> Medellín, Quito, Galápagos, Orlando, Boston, Seattle
+> New York, Los Angeles, Chicago, San Francisco, Miami, Toronto, Vancouver, etc
 
 **Africa (10+ cities)**
-> Cape Town, Casablanca, Nairobi, Johannesburg, Durban, Marrakech
+> Cape Town, Casablanca, Nairobi, Johannesburg, Durban, Marrakech etc.
 
 ### 💰 Daily Cost Range (INR):
 
