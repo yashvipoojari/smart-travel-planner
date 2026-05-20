@@ -15,7 +15,66 @@ smart-travel-planner/
 
 ├── script.js       # Core logic — trip generation, PDF/TXT download
 
+├── travel_data.xlsx    # Self-made database of 150+ cities & destinations
+
 └── README.md       # You are here!
+
+---
+## 🗂️ About the Database (`travel_data.xlsx`)
+
+This is a **self-built travel database** created from scratch, covering 
+**150+ cities across India and the world.**
+
+### 📊 What's inside:
+
+| Column | Description |
+|--------|-------------|
+| City | Destination city name |
+| Place 1–8 | Top 8 attractions per city |
+| Cost per Day (INR) | Estimated daily budget in Indian Rupees |
+
+### 🌏 Cities covered:
+
+**India (40+ cities)**
+> Delhi, Mumbai, Jaipur, Agra, Udaipur, Varanasi, Amritsar, Bengaluru, 
+> Hyderabad, Kochi, Goa, Jodhpur, Rishikesh, Shimla, Darjeeling, Manali, 
+> Leh Ladakh, Mysore, Pondicherry, Hampi, Madurai, Ooty, Munnar, Kashmir, 
+> Shillong, Guwahati, Ahmedabad, Indore, Pune, Chandigarh, Tawang, Gangtok, 
+> Jaisalmer, Pushkar, Khajuraho, Aurangabad, Alleppey, Kodaikanal, 
+> Chikmagalur, Coorg
+
+**Asia (30+ cities)**
+> Bangkok, Tokyo, Singapore, Seoul, Hong Kong, Kuala Lumpur, Hanoi, 
+> Shanghai, Taipei, Ho Chi Minh, Kyoto, Osaka, Bali, Phuket, Siem Reap, 
+> Kathmandu, Luang Prabang, Baku, Almaty, Tashkent, Phnom Penh, Colombo, 
+> Manila, Jakarta, Beijing, Chiang Mai, Da Nang, George Town, Phu Quoc, 
+> Doha, Abu Dhabi, Langkawi, Surabaya, Vientiane, Ulaanbaatar, Dubai, 
+> Muscat, Cairo, Luxor
+
+**Europe (40+ cities)**
+> Paris, London, Rome, Barcelona, Amsterdam, Prague, Vienna, Berlin, 
+> Lisbon, Florence, Madrid, Budapest, Venice, Athens, Istanbul, Munich, 
+> Zurich, Edinburgh, Dublin, Copenhagen, Stockholm, Oslo, Helsinki, 
+> Brussels, Warsaw, Krakow, Santorini, Nice, Seville, Milan, Geneva, 
+> Lyon, Hamburg, Salzburg, Antwerp, Strasbourg, Tallinn, Kyiv
+
+**Americas (20+ cities)**
+> New York, Los Angeles, Chicago, San Francisco, Miami, Toronto, Vancouver,
+> Mexico City, Cancún, Rio de Janeiro, Buenos Aires, Cusco, Lima, Bogotá,
+> Santiago, Las Vegas, Washington DC, Montreal, Quebec City, Cartagena,
+> Medellín, Quito, Galápagos, Orlando, Boston, Seattle
+
+**Africa (10+ cities)**
+> Cape Town, Casablanca, Nairobi, Johannesburg, Durban, Marrakech
+
+### 💰 Daily Cost Range (INR):
+
+| Budget | Cities |
+|--------|--------|
+| 🟢 Budget (< ₹6,000) | Hampi, Pushkar, Varanasi, Kathmandu, Luang Prabang |
+| 🟡 Mid-range (₹6,000–₹15,000) | Most Indian cities, SE Asia |
+| 🟠 Premium (₹15,000–₹30,000) | Europe, Japan, Australia |
+| 🔴 Luxury (> ₹30,000) | New York, Dubai, Zurich, Galápagos |
 
 ---
 
