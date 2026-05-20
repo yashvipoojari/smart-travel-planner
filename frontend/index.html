@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Travel Planner</title>
+
+  <!-- PDF LIB -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <style>
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: url('https://images.unsplash.com/photo-1501785888041-af3ef285b470') no-repeat center center/cover;
+  }
+
+  .overlay {
+    background: rgba(0, 0, 0, 0.6);
+    min-height: 100vh;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  .container {
+    width: 420px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 15px;
+
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(12px);
+    color: white;
+
+    box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+  }
+
+  input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 8px;
+    border: none;
+  }
+
+  input {
+    background: rgba(255,255,255,0.2);
+    color: white;
+  }
+
+  input::placeholder {
+    color: #ddd;
+  }
+
+  button {
+    background: linear-gradient(45deg, #4facfe, #00f2fe);
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  button:hover {
+    opacity: 0.9;
+  }
+
+  .card {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 12px;
+    background: rgba(255,255,255,0.9);
+    color: black;
+  }
+
+  .day {
+    margin: 8px 0;
+    padding: 8px;
+    background: #f1f1f1;
+    border-radius: 6px;
+  }
+
+  .btn-row {
+    display: flex;
+    gap: 10px;
+  }
+
+  .btn-row button {
+    flex: 1;
+  }
+
+  img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+</style>
+</head>
+
+<body>
+<div class="overlay">
+
+<h1>Smart Travel Planner</h1>
+
+<div class="container">
+
+ <select id="mood">
+    <option value="">Select Mood</option>
+    <option value="relax">Relax</option>
+    <option value="adventure">Adventure</option>
+    <option value="city">City</option>
+</select>
+
+  <input id="destination" placeholder="Enter destination">
+  <input id="startDate" type="date">
+  <input id="endDate" type="date">
+
+    <button onclick="suggestTrip()">Suggest Destination</button>
+  <button onclick="generatePlan()">Generate Itinerary</button>
+<div style="display:flex; gap:10px;">
+  <button onclick="downloadTXT()">Download TXT</button>
+  <button onclick="downloadPDF()">Download PDF</button>
+</div>
+  <div id="result"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
