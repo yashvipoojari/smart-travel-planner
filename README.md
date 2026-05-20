@@ -9,7 +9,11 @@ A beautiful, mood-based travel planning web app that generates personalized itin
 ---
 
 ## 📁 Repository Structure
-
+smart-travel-planner/
+│
+├── index.html        # Main HTML file — UI layout, inputs, buttons
+├── script.js         # Core logic — trip generation, PDF/TXT download
+└── README.md         # You are here!
 ---
 
 ## ✨ Features
@@ -70,13 +74,6 @@ A beautiful, mood-based travel planning web app that generates personalized itin
 6. **Download** your plan as TXT or PDF
 
 ---
-
-## 📸 Preview
-
-> Glassmorphism UI with a travel background, mood selector, and instant itinerary generation.
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] Google Maps integration
@@ -92,8 +89,3 @@ A beautiful, mood-based travel planning web app that generates personalized itin
 **Yashvi Poojari**
 [GitHub](https://github.com/yashvipoojari) 
 
----
-
-## 📄 License
-
-This project is open source and free to use.
