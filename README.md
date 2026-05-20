@@ -10,8 +10,11 @@ A beautiful, mood-based travel planning web app that generates personalized itin
 
 ## 📁 Repository Structure
 smart-travel-planner/
+
 ├── index.html      # Main HTML file — UI layout, inputs, buttons
+
 ├── script.js       # Core logic — trip generation, PDF/TXT download
+
 └── README.md       # You are here!
 
 ---
