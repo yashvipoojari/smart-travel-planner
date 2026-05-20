@@ -36,19 +36,19 @@ This is a **self-built travel database** created from scratch, covering
 ### 🌏 Cities covered:
 
 **India (40+ cities)**
-> Delhi, Mumbai, Jaipur, Agra, Udaipur, Varanasi, Amritsar, Bengaluru, etc.
+> Delhi, Mumbai, Jaipur, Agra, Udaipur, Varanasi, Amritsar, Bengaluru, Hyderabad, Kochi, Goa, Jodhpur, Rishikesh, Shimla, Darjeeling, Manali, etc.
 
 **Asia (30+ cities)**
-> Bangkok, Tokyo, Singapore, Seoul, Hong Kong, Kuala Lumpur, Hanoi, etc.
+> Bangkok, Tokyo, Singapore, Seoul, Hong Kong, Kuala Lumpur, Hanoi, Kathmandu, Luang Prabang, Baku, Almaty, Tashkent, Phnom Penh, Colombo, etc.
 
 **Europe (40+ cities)**
-> Paris, London, Rome, Barcelona, Amsterdam, Prague, Vienna, Berlin, etc.
+> Paris, London, Rome, Barcelona, Amsterdam, Prague, Vienna, Berlin, Lisbon, Florence, Madrid, Budapest, Venice, Athens, Istanbul, Munich, etc.
 
 **Americas (20+ cities)**
-> New York, Los Angeles, Chicago, San Francisco, Miami, Toronto, Vancouver, etc
+> New York, Los Angeles, Chicago, San Francisco, Miami, Toronto, Vancouver, Santiago, Las Vegas, Washington DC, Montreal, Quebec City, Cartagena, etc.
 
 **Africa (10+ cities)**
-> Cape Town, Casablanca, Nairobi, Johannesburg, Durban, Marrakech etc.
+> Cape Town, Casablanca, Nairobi, Johannesburg, Durban, Marrakech.
 
 ### 💰 Daily Cost Range (INR):
 
